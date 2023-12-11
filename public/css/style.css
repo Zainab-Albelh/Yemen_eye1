@@ -2216,9 +2216,18 @@ width: max-content;
     height:40px;
      border-radius: 30px;
     transition: all 0.3s ease-in-out;
-    
 
 }
+.icon-contact-en a{
+    font-size: 25px;
+    color: #ee2e2e;
+    width:40px;
+    height:40px;
+     border-radius: 30px;
+    transition: all 0.3s ease-in-out;
+
+}
+
 
 .active_icon-contact-en
 {
@@ -2230,6 +2239,23 @@ width: max-content;
 
 
 .icon-contact{
+    font-size: 25px;
+    color: #ee2e2e;
+    float: right;
+    width:40px;
+    height:40px;
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    transition: all 0.3s ease-in-out;
+    
+
+}
+
+
+.icon-contact a{
     font-size: 25px;
     color: #ee2e2e;
     float: right;
